@@ -1,8 +1,0 @@
-<div class="calendar-subdivision" ng-repeat="sub in date.subdivisions" ng-class="cssClass(sub)" ng-click="showEvents(sub, 'hour')">
-  <span class="time">
-    {{ sub.format('h:mm a') }}
-  </span>
-  <span class="row">
-    {{ eventNames(sub) }}
-  </span>
-</div>
