@@ -9,13 +9,13 @@ Libraries/Frameworks Used:
 * MongoDB
 * ExpressJS
 * AngularJS
-* NodeJS    Serverside JS packages
-* Gulp      JS Task Manager
-* Mongoose  MongoDB Schema
-* Passport  Authentication
-* Bower     Clientside JS packages
-* MomentJS  Date/Time Library
-* UI Router Angular package for Single Page Applications
+* NodeJS    - Serverside JS packages
+* Gulp      - JS Task Manager
+* Mongoose  - MongoDB Schema
+* Passport  - Authentication
+* Bower     - Clientside JS packages
+* MomentJS  - Date/Time Library
+* UI Router - Angular package for Single Page Applications
 * Bootstrap CSS
 * Deployed via Heroku
 
