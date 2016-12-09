@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "gulp start",
-    "postinstall": "cd client && bower install && cd ../ && gulp build && node ./bin/www"
+    "postinstall": "cd client && bower install && cd ../ && gulp build"
   },
   "dependencies": {
     "body-parser": "~1.15.2",
